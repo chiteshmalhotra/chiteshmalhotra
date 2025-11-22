@@ -1,16 +1,30 @@
-## Hi there 👋
+# About Me
 
-<!--
-**chiteshmalhotra/chiteshmalhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm **Chitesh Malhotra**
 
-Here are some ideas to get you started:
+Final year Bachelor of Technology student at PDM University.  
+Focused on Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Socials
+
+[![My Website](https://skillicons.dev/icons?i=github)](https://chiteshmalhotra.github.io)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chitesh-malhotra/)  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=chitesh.official@gmail.com)
+
+---
+
+# Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,bootstrap)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiteshmalhotra&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
+
+</div>
+
+---
